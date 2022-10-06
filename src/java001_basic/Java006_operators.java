@@ -50,7 +50,8 @@ public class Java006_operators {
 		char data = '0'; //48
 		char alpa = 'A'; //65
 		int sum = data + alpa;
-		System.out.println(sum);		
+		System.out.println(sum);	
+		System.out.println("test"); 
 	}
 
 }

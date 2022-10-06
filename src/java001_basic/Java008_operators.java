@@ -10,6 +10,7 @@ public class Java008_operators {
 		System.out.println(a + "는(은) 삼입니다."); //문자열 연결
 		System.out.println("a=" + a); //문자열 연결
 		System.out.println("결과=" + (a + b)); //결과=7
-	}
+		
+	} 
 
 }
