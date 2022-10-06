@@ -6,7 +6,7 @@ package java001_basic;
  * Ctrl + Shift + / : 여러 라인 주석 설정
  * Ctrl + Shift + \ : 여러 라인 주석 해제
  * Ctrl + Shift + F : 자동정렬  ( Window -Preferences - General - Keys - Ctrl+Shift+F을 Ctrl+f로 변경)
- * 
+ *  
  */
 public class Java004_casting {
 

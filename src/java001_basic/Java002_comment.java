@@ -6,7 +6,7 @@ public class Java002_comment {
 		  /* 
 		   * 여러 라인 주석
 		   * 
-		   */
+		   */  
 		
 		/**
 		 * java doc 주석 : 프로그램 문서를 만들때 사용하는 주석
