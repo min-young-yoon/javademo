@@ -7,7 +7,7 @@ public class Java009_operators {
 		// 전위 연산자
 		++x; // x = x + 1, x+=1
 		System.out.println(x);
-
+ 
 		--x;
 		System.out.println(x);
 
@@ -29,7 +29,7 @@ public class Java009_operators {
 		//상수는 증감연산자를 사용할 수 없다.
 		//NUM++;
 		
-
+      
 	}
 
 }

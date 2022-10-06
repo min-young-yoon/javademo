@@ -16,6 +16,7 @@ public class Java010_operators {
 		//후위형: 값이 참조된 후 증가시킨다.
 		j = i++;
 		System.out.printf("i=%d, j=%d\n", i, j);
+		
 	}
 
 }
