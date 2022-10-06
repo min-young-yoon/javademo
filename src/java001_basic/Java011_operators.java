@@ -6,7 +6,7 @@ public class Java011_operators {
 		int x = 5;
 		int y = 3; 
 		int z = 5;
-
+ 
 		//x가 y 보다 크다.
 				System.out.println(x>y); //true
 				//x가 y보다 작다.

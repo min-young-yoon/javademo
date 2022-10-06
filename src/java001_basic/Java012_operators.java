@@ -2,7 +2,7 @@ package java001_basic;
 
 public class Java012_operators {
 	public static void main(String[] args) {
-		/*
+		/* 
 		 * true && true => true
 		 * true && false => false
 		 * false && true => false
