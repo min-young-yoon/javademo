@@ -1,9 +1,9 @@
-package java1005_basic;
+package java001_basic;
 
 public class Java002_comment {
 	public static void main(String[] args) {
 		  // 한 라인 주석
-		  /*
+		  /* 
 		   * 여러 라인 주석
 		   * 
 		   */
