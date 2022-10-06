@@ -36,7 +36,7 @@ public class Java005_print {
 		System.out.print("program");
 		System.out.println();
 		System.out.println("jsp");
-		System.out.println("ko");	
+		 
 	}
 
 }
